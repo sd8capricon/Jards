@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 827adeaee8820f14a85e4f12a76360a1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - OFFAudioimg: {fileID: 21300000, guid: 42b4a97e0fea91a4a99a6b53645a86d9, type: 3}
+  - button: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
